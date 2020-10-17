@@ -1,4 +1,4 @@
-# restapi_vue
+# Calculator_App_Vue
 
 ## Project setup
 ```
